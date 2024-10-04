@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rmonoli.github.io/sitemap.html.gz
+Sitemap: https://rmonoli.github.io/app/sitemap.html.gz
+Sitemap: https://rmonoli.github.io/assets/sitemap.html.gz
+Sitemap: https://rmonoli.github.io/css/sitemap.html.gz
+Sitemap: https://rmonoli.github.io/data/sitemap.html.gz
+Sitemap: https://rmonoli.github.io/includes/sitemap.html.gz
+Sitemap: https://rmonoli.github.io/item/sitemap.html.gz
+Sitemap: https://rmonoli.github.io/src/sitemap.html.gz
